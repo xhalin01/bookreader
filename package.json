@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/internetarchive/bookreader#readme",
   "dependencies": {
-    "jquery": "3.4.1"
+    "jquery": "3.5.0"
   },
   "private": false,
   "devDependencies": {
